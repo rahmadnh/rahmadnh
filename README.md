@@ -9,6 +9,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=FF2079&center=true&vCenter=true&width=600&height=60&lines=SHINJICODE+%2F+RAHMADNH;3D+GAME+DEVELOPER;GRAPHICS+%7C+OPENGL+ENGINEER;FULL-STACK+BUILDER" alt="Typing SVG" />
 
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/matrix-rain.gif" width="100%" height="60" alt="matrix boot sequence" />
+
 <br/>
 
 <table>
@@ -29,9 +31,15 @@
 
 ### 🕹️ &nbsp;PLAYER PROFILE
 
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/wave.gif" width="28" alt="waving hand" />
+
 **3D Game Developer** — crafting worlds in `Unity`, `Unreal Engine 5` & `Three.js` &nbsp;•&nbsp;
 **Graphics / OpenGL Engineer** — shaders, rendering pipelines & low-level graphics &nbsp;•&nbsp;
 **Full-Stack Engineer** — shipping end-to-end products from pixel to server
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/pulse-dot-green.gif" width="12" alt="online pulse" /> <sub>**STATUS: ONLINE — currently compiling something new**</sub>
 
 <br/>
 
@@ -64,6 +72,8 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="animated rainbow divider" />
+
 <!-- ============================================ -->
 <!-- SECTION 2: TECH STACK VISUALIZATION           -->
 <!-- ============================================ -->
@@ -75,6 +85,8 @@
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=flat-square&labelColor=0f0f23" />
 <img src="https://img.shields.io/badge/LOADOUT-FULL_STACK-FF2079?style=flat-square&labelColor=0f0f23" />
 <img src="https://img.shields.io/badge/RENDER-3D_%2F_GL-00F0FF?style=flat-square&labelColor=0f0f23" />
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/loading-bar-neon.gif" width="220" alt="loadout loading bar" />
 
 </div>
 
@@ -191,6 +203,8 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="animated rainbow divider" />
+
 <!-- ================================================= -->
 <!-- SECTION 3: 3D PIXEL ROBOT CONTRIBUTOR LOG          -->
 <!-- ================================================= -->
@@ -201,6 +215,7 @@
 
 <img src="YOUR_GIF_URL_LEFT_ROBOT.gif" width="120" align="left" alt="pixel robot walking left" />
 <img src="YOUR_GIF_URL_RIGHT_ROBOT.gif" width="120" align="right" alt="pixel robot walking right" />
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/orbiting-satellite.gif" width="90" alt="orbiting drone" />
 
 <br clear="both"/>
 
@@ -243,6 +258,10 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/pixel-robot-parade.gif" width="70%" alt="marching pixel robots" />
+
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=shinjiCode&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FF2079&icon_color=00F0FF&text_color=c9d1d9&border_color=FF2079&border_radius=10&hide_border=false" width="48%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinjiCode&theme=tokyonight&background=0D1117&border=FF2079&stroke=00F0FF&ring=FF2079&fire=39FF14&currStreakLabel=FF2079&hide_border=false" width="48%" alt="GitHub Streak" />
 
@@ -253,6 +272,8 @@
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="animated rainbow divider" />
 
 <!-- ==================================================== -->
 <!-- SECTION 4: EMBEDDED VIDEO SHOWCASE & DEMO REEL        -->
@@ -265,6 +286,8 @@
 <table>
 <tr>
 <td align="center" bgcolor="#0f0f23" style="border: 4px solid #00F0FF; border-radius: 12px;">
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/crt-scanline-overlay.gif" width="100%" height="14" alt="crt scanline flicker" />
 
 <br/>
 
@@ -304,6 +327,8 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="animated rainbow divider" />
+
 <!-- ============================================= -->
 <!-- SECTION 5: CONTRIBUTIONS GRAPH & FOOTER        -->
 <!-- ============================================= -->
@@ -330,6 +355,8 @@
 ║                                                  ║
 ╚════════════════════════════════════════════════╝
 ```
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/pixel-runner.gif" width="60" alt="running pixel character" />
 
 <a href="https://github.com/shinjiCode">
   <img src="https://img.shields.io/badge/▶_PRESS_START-FF2079?style=for-the-badge&labelColor=0f0f23&logoColor=00F0FF" />
