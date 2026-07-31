@@ -29,7 +29,8 @@
 </tr>
 </table>
 
-### 🕹️ &nbsp;PLAYER PROFILE
+🕹️
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=400&height=40&lines=PLAYER+PROFILE" alt="Player Profile animated title" />
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/wave.gif" width="28" alt="waving hand" />
 
@@ -80,7 +81,8 @@
 
 <div align="center">
 
-## 🖥️ &nbsp;TECH STACK VISUALIZATION
+🖥️
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=2500&pause=800&color=FF2079&center=true&vCenter=true&width=650&height=55&lines=TECH+STACK+VISUALIZATION" alt="Tech Stack Visualization animated title" />
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=flat-square&labelColor=0f0f23" />
 <img src="https://img.shields.io/badge/LOADOUT-FULL_STACK-FF2079?style=flat-square&labelColor=0f0f23" />
@@ -96,7 +98,8 @@
 
 <div align="center">
 
-### 🧠 &nbsp;CORE LANGUAGES
+🧠
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2200&pause=700&color=00F0FF&center=true&vCenter=true&width=380&height=32&lines=CORE+LANGUAGES" alt="Core Languages animated title" />
 <img src="https://img.shields.io/badge/HTML5-0f0f23?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-0f0f23?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TYPESCRIPT-0f0f23?style=for-the-badge&logo=typescript&logoColor=3178C6" />
@@ -113,7 +116,8 @@
 
 <div align="center">
 
-### 🎮 &nbsp;3D & GAME ENGINE
+🎮
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2200&pause=700&color=FF2079&center=true&vCenter=true&width=380&height=32&lines=3D+%26+GAME+ENGINE" alt="3D and Game Engine animated title" />
 <img src="https://img.shields.io/badge/UNITY-0f0f23?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/UNREAL_ENGINE-0f0f23?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/THREE.JS-0f0f23?style=for-the-badge&logo=three.js&logoColor=FFFFFF" />
@@ -128,7 +132,8 @@
 
 <div align="center">
 
-### 🎨 &nbsp;FRONTEND & DESIGN
+🎨
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=380&height=32&lines=FRONTEND+%26+DESIGN" alt="Frontend and Design animated title" />
 <img src="https://img.shields.io/badge/REACT-0f0f23?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/NEXT.JS-0f0f23?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/VUE.JS-0f0f23?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
@@ -147,7 +152,8 @@
 
 <div align="center">
 
-### ⚙️ &nbsp;BACKEND & APIs
+⚙️
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2200&pause=700&color=9D00FF&center=true&vCenter=true&width=380&height=32&lines=BACKEND+%26+APIs" alt="Backend and APIs animated title" />
 <img src="https://img.shields.io/badge/NODE.JS-0f0f23?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
 <img src="https://img.shields.io/badge/NESTJS-0f0f23?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
 <img src="https://img.shields.io/badge/FASTAPI-0f0f23?style=for-the-badge&logo=fastapi&logoColor=009688" />
@@ -164,7 +170,8 @@
 
 <div align="center">
 
-### 🗄️ &nbsp;DATABASE & CLOUD
+🗄️
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2200&pause=700&color=00F0FF&center=true&vCenter=true&width=380&height=32&lines=DATABASE+%26+CLOUD" alt="Database and Cloud animated title" />
 <img src="https://img.shields.io/badge/MYSQL-0f0f23?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/MARIADB-0f0f23?style=for-the-badge&logo=mariadb&logoColor=003545" />
 <img src="https://img.shields.io/badge/MONGODB-0f0f23?style=for-the-badge&logo=mongodb&logoColor=47A248" />
@@ -185,7 +192,8 @@
 
 <div align="center">
 
-### 🕹️ &nbsp;TOOLING & GAMING ECOSYSTEM
+🕹️
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2200&pause=700&color=FF2079&center=true&vCenter=true&width=420&height=32&lines=TOOLING+%26+GAMING+ECOSYSTEM" alt="Tooling and Gaming Ecosystem animated title" />
 <img src="https://img.shields.io/badge/PLAYWRIGHT-0f0f23?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
 <img src="https://img.shields.io/badge/ARDUINO-0f0f23?style=for-the-badge&logo=arduino&logoColor=00979D" />
 <img src="https://img.shields.io/badge/NVIDIA-0f0f23?style=for-the-badge&logo=nvidia&logoColor=76B900" />
@@ -211,7 +219,8 @@
 
 <div align="center">
 
-## 🤖 &nbsp;WALKING ROBOTS CONTRIBUTOR LOG
+🤖
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=650&height=50&lines=WALKING+ROBOTS+CONTRIBUTOR+LOG" alt="Walking Robots Contributor Log animated title" />
 
 <img src="YOUR_GIF_URL_LEFT_ROBOT.gif" width="120" align="left" alt="pixel robot walking left" />
 <img src="YOUR_GIF_URL_RIGHT_ROBOT.gif" width="120" align="right" alt="pixel robot walking right" />
@@ -281,7 +290,8 @@
 
 <div align="center">
 
-## 🎥 &nbsp;EMBEDDED TECH STACK SHOWCASE
+🎥
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=2500&pause=800&color=FF2079&center=true&vCenter=true&width=650&height=50&lines=EMBEDDED+TECH+STACK+SHOWCASE" alt="Embedded Tech Stack Showcase animated title" />
 
 <table>
 <tr>
@@ -335,7 +345,8 @@
 
 <div align="center">
 
-## 📡 &nbsp;CONTRIBUTION GRID
+📡
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=650&height=50&lines=CONTRIBUTION+GRID" alt="Contribution Grid animated title" />
 
 <img src="https://raw.githubusercontent.com/shinjiCode/shinjiCode/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation" />
 
