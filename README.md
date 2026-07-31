@@ -4,6 +4,9 @@
 <!-- SECTION 1: HEADER & IDENTITY   -->
 <!-- ============================== -->
 
+<!-- ANIMATED CAPSULE BANNER (SVG wave animation) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:FF2079,100:00F0FF&height=180&section=header&text=SHINJICODE&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=rahmadnh%20%7C%203D%20%2F%20Graphics%20%2F%20Full-Stack&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="animated header banner" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=FF2079&center=true&vCenter=true&width=600&height=60&lines=SHINJICODE+%2F+RAHMADNH;3D+GAME+DEVELOPER;GRAPHICS+%7C+OPENGL+ENGINEER;FULL-STACK+BUILDER" alt="Typing SVG" />
 
 <br/>
@@ -52,6 +55,10 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/laptop-neon.gif" width="35%" alt="cyberpunk divider"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=shinjiCode&label=SCANS+DETECTED&color=FF2079&style=for-the-badge&labelColor=0f0f23" alt="profile views counter" />
 
 </div>
 
@@ -281,6 +288,14 @@
 
 <br/>
 
+<a href="https://YOUR_R3F_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/▶_LAUNCH_LIVE_3D_PORTFOLIO-00F0FF?style=for-the-badge&labelColor=0f0f23&logoColor=FF2079" />
+</a>
+<br/>
+<sub>Fully interactive React Three Fiber build — orbit controls, bloom, real-time shaders</sub>
+
+<br/>
+
 </td>
 </tr>
 </table>
@@ -323,5 +338,9 @@
 <br/><br/>
 
 <sub>© shinjiCode &nbsp;·&nbsp; rahmadnh &nbsp;·&nbsp; GAME OVER? INSERT COIN TO CONTINUE</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF2079,100:0f0f23&height=100&section=footer" width="100%" alt="animated footer banner" />
 
 </div>
